@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "MERN",
+  "name": "mern",
   "scripts": {
     "dev": "nodemon index.js"
   },
